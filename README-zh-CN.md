@@ -124,7 +124,7 @@
 每天我都会从下面的列表中选一个出来，一遍又一遍的读，做笔记，练习，用Python或R语言实现它。
 
 # 动机
-- [ ] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
+- [x] [梦](https://www.youtube.com/watch?v=g-jwWYX7Jlo)
 
 ## 机器学习概论
 - [ ] [形象的机器学习简介](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
@@ -137,17 +137,17 @@
 - [ ] [深度学习——一份非技术性的简介](http://www.slideshare.net/AlfredPong1/deep-learning-a-nontechnical-introduction-69385936)
 
 ## 掌握机器学习
-- [ ] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
-- [ ] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
+- [x] [掌握机器学习的方法](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [x] [程序员的机器学习](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [掌握并运用机器学习](http://machinelearningmastery.com/start-here/)
 - [ ] [Python机器学习小课程](http://machinelearningmastery.com/python-machine-learning-mini-course/)
 - [ ] [机器学习算法小课程](http://machinelearningmastery.com/machine-learning-algorithms-mini-course/)
 
 ## 有趣的机器学习
-- [ ] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
-- [ ] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
-- [ ] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
-- [ ] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
+- [x] [机器学习真有趣！](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.37ue6caww)
+- [x] [Part 2: 使用机器学习来创造超级马里奥的关卡](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3#.kh7qgvp1b)
+- [x] [Part 3: 深度学习与卷积神经网络](https://medium.com/@ageitgey/machine-learning-is-fun-part-3-deep-learning-and-convolutional-neural-networks-f40359318721#.44rhxy637)
+- [x] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
 
@@ -163,9 +163,9 @@
 - [ ] [无监督学习，相关领域与实践中的机器学习](http://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide-part-5/)
 
 ## 故事与经验
-- [ ] [一周的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
+- [x] [一周的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-week-a0da25d59850#.tk6ft2kcg)
 - [ ] [一年的机器学习](https://medium.com/learning-new-stuff/machine-learning-in-a-year-cdb0b0ebd29c#.hhcb9fxk1)
-- [ ] [我是如何在3天内写出我的第一个机器学习程序的](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
+- [x] [我是如何在3天内写出我的第一个机器学习程序的](http://blog.adnansiddiqi.me/how-i-wrote-my-first-machine-learning-program-in-3-days/)
 - [ ] [学习路径：你成为机器学习专家的导师](https://www.analyticsvidhya.com/learning-path-learn-machine-learning/)
 - [ ] [不是PhD你也可以成为机器学习的摇滚明星](https://backchannel.com/you-too-can-become-a-machine-learning-rock-star-no-phd-necessary-107a1624d96b#.g9p16ldp7)
 - [ ] 如何6个月成为一名数据科学家：一名黑客的职业规划
