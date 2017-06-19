@@ -150,6 +150,8 @@
 - [x] [Part 4: 现代人脸识别与深度学习](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78#.3rwmq0ddc)
 - [ ] [Part 5: 翻译与深度学习和序列的魔力](https://medium.com/@ageitgey/machine-learning-is-fun-part-5-language-translation-with-deep-learning-and-the-magic-of-sequences-2ace0acca0aa#.wyfthap4c)
 - [ ] [Part 6: 如何使用深度学习进行语音识别](https://medium.com/@ageitgey/machine-learning-is-fun-part-6-how-to-do-speech-recognition-with-deep-learning-28293c162f7a#.lhr1nnpcy)
+- [ ] [Part 7: Abusing Generative Adversarial Networks to Make 8-bit Pixel Art](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7)
+- [ ] [Try Deep Learning in Python now with a fully pre-configured VM](https://medium.com/@ageitgey/try-deep-learning-in-python-now-with-a-fully-pre-configured-vm-1d97d4c3e9b)
 
 ## [机器学习简介](https://triskell.github.io/2016/11/15/Inky-Machine-Learning.html)(用手指沾上墨水来书写机器学习简介)
 - [ ] [Part 1 : 什么是机器学习？](https://triskell.github.io/2016/10/23/What-is-Machine-Learning.html)
